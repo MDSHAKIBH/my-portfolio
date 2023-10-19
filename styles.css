@@ -9,8 +9,9 @@ body{
 nav{
     display: flex;
     justify-content: space-between;
+  
     align-items: center; 
-margin: 0px 200px;
+margin:0px 150px;
 }
 nav > ul{
     display: flex;  
@@ -40,7 +41,7 @@ font-weight: 700;
 padding: 5px 15px;
 }
 .header{
-   background-color:#FFF8F3;;
+   background: color #fff8f3;
 }
 .banner{
     padding: 30px 30px 30px 150px;
